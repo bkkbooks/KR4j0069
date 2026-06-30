@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4j0069/SBCK/v1/juan/5
+seq: 5
+front:
+  text: 吴騷合編计四册盖張旭初伯仲彙三集而選輯者予不解度曲然玩言订聲亦有心領是刻􅀁収惟其詞弗计其人圖繪尤極工妙欣賞之資也坊間曽兩刋本此為􅀄印
+  hash: sha256:25d5373bd91d50063ceade89abe19556282fb439e84d7ddf6706f9a1e33e8153
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4j0069_SBCK_005-1a}
+body:
+  text: 固安劉伯峯識時庽
+  hash: sha256:6c7f5dd27e54a8e735214fd5e1e3a03c7da456734152234c869c1462406c9c7f
+metadata:
+  title: 吳騷合編
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-09-12 00:39:38.703156'
+  source:
+    repository: kanripo
+    path: KR4j0069/KR4j0069_005.txt
+hash: sha256:53c204dc9be7d5e6cf5ed7c50e4094508ac0decbc633335158dba39314989df4
