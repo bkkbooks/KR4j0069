@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR4j0069/krp/v1/juan/5
 seq: 5
-front:
-  text: 吳騷合編計四册蓋張旭初伯仲彙三集而選輯者豫不解度曲然玩言訂聲亦有心領是刻所收惟其詞弗計其人圖繪尤極工妙欣賞之資也坊間曽兩刋本此為𥘉印
-  hash: sha256:f832081aa645325a1731c1683fc94957d389013ea2df3c54057e0d63a4853425
+body:
+  text: 吳騷合編計四册蓋張旭初伯仲彙三集而選輯者豫不解度曲然玩言訂聲亦有心領是刻所收惟其詞弗計其人圖繪尤極工妙欣賞之資也坊間曽兩刋本此為𥘉印固安劉伯峯識時寓
+  hash: sha256:98505ff915e6da533e62ad0cf02b22806a5c637c3c3de59f8df0f68da12adb0b
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4j0069_SBCK_005-1a}
-body:
-  text: 固安劉伯峯識時寓
-  hash: sha256:c6a792fbffd59b66ed72b9bb0da9d9d0b708982dddb47633bc326104c1e278ef
 metadata:
   title: 吳騷合編
   edition:
@@ -17,4 +14,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4j0069/KR4j0069_005.txt
-hash: sha256:cd0d1b69478910c32958fe93e4310ba8bb743289e942fddfe81a603989c0d777
+hash: sha256:c9756d6e867544fe078bd4246e2e7a38d7af42ca891a940505093112fe3601f0
